@@ -13,13 +13,20 @@ The system also integrates an HX711 load cell to monitor the collected waste wei
 A web-based dashboard provides authorized users with real-time information about AquaNova's GPS location, bin weight, sensor readings, and system status. The dashboard uses Firebase Google Authentication, Node.js, Express.js, MongoDB, Chart.js, and Leaflet for authentication, backend communication, data storage, visualization, and location tracking.
 
 # 🔑 Main Components
-🤖 Artificial Intelligence
+
+# 🤖 Artificial Intelligence
 TensorFlow Lite
+
 Computer Vision
+
 OpenCV
+
 Waste detection
+
 Living-organism detection
+
 Region-based detection
+
 Confidence-based decision making
 
 # 🛥️ Autonomous Hardware
