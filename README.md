@@ -30,31 +30,55 @@ Region-based detection
 Confidence-based decision making
 
 # 🛥️ Autonomous Hardware
+
 Raspberry Pi
+
 Arduino
+
 DC motors
+
 Motor drivers
+
 Conveyor mechanism
+
 Water pump
+
 Servo mechanism
+
 Buzzer
 
 # 📡 Sensors & Monitoring
+
 RaspberryPi Camera
+
 GPS
+
 HX711 Load Cell
+
 Bin weight monitoring
+
 GPS location tracking
 
 # 🌐 Web Dashboard
+
 HTML
+
 CSS
+
 JavaScript
+
 Firebase Authentication
+
 Node.js
+
 Express.js
+
 MongoDB
+
 Mongoose
+
 Chart.js
+
 Leaflet
+
 OpenStreetMap
