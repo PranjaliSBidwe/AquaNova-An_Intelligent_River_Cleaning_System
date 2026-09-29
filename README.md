@@ -1,4 +1,4 @@
-# 🌊 AquaNova — An Intelligent River Cleaning System
+#  AquaNova — An Intelligent River Cleaning System
 
 AquaNova is an AI and IoT-enabled autonomous river cleaning system designed to detect and collect floating waste while monitoring the condition and location of the cleaning boat in real time.
 
@@ -12,9 +12,9 @@ The system also integrates an HX711 load cell to monitor the collected waste wei
 
 A web-based dashboard provides authorized users with real-time information about AquaNova's GPS location, bin weight, sensor readings, and system status. The dashboard uses Firebase Google Authentication, Node.js, Express.js, MongoDB, Chart.js, and Leaflet for authentication, backend communication, data storage, visualization, and location tracking.
 
-# 🔑 Main Components
+#  Main Components
 
-# 🤖 Artificial Intelligence
+#  Artificial Intelligence
 TensorFlow Lite
 
 Computer Vision
@@ -29,7 +29,7 @@ Region-based detection
 
 Confidence-based decision making
 
-# 🛥️ Autonomous Hardware
+#  Autonomous Hardware
 
 Raspberry Pi
 
@@ -47,7 +47,7 @@ Servo mechanism
 
 Buzzer
 
-# 📡 Sensors & Monitoring
+#  Sensors & Monitoring
 
 RaspberryPi Camera
 
@@ -59,7 +59,7 @@ Bin weight monitoring
 
 GPS location tracking
 
-# 🌐 Web Dashboard
+#  Web Dashboard
 
 HTML
 
