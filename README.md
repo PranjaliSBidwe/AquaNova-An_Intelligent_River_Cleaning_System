@@ -110,7 +110,7 @@ OpenStreetMap
 # Applications 
 
 1. River Cleaning — Automating the detection and collection of floating waste from rivers to reduce water pollution
-2. 1. Lake & Reservoir Cleaning — Supporting automated removal of floating debris from lakes, reservoirs, and other water bodies.
+2. Lake & Reservoir Cleaning — Supporting automated removal of floating debris from lakes, reservoirs, and other water bodies.
 3. Water Pollution Management — Using AI-based waste detection and automated collection to help manage floating plastic and other debris.
 4. Smart Environmental Monitoring — Providing real-time GPS location, bin level, system status, and alerts through an IoT-based dashboard.
 5. Municipal Cleaning Operations — Supporting regular water-body cleaning activities while reducing manual effort and intervention.
